@@ -1,0 +1,27 @@
+{
+  "name": "html-cv",
+  "version": "0.0.0",
+  "description": "My HTML CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielFerraz/html-cv.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "SASS"
+  ],
+  "author": "Gabriel Ferraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielFerraz/html-cv/issues"
+  },
+  "homepage": "https://github.com/GabrielFerraz/html-cv#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
