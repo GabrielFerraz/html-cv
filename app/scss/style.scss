@@ -44,8 +44,16 @@ body {
 .body-container {
   background-color: $white;
   height: 800px;
-  padding-top: 90px;
   z-index: 1;
+  
+  &__side {
+    padding-top: 90px;
+    border-right: 1px solid $light-grey;
+  }
+  
+  &__center {
+    padding-top: 32px;
+  }
 }
 
 .header {
